@@ -10,6 +10,7 @@ table , thead , tr , td {
 	flex-direction:column;
 }
 
-thead{
-	font-size:bold;
+.htmlm{
+	background-color:black;
+	color:white;
 }
